@@ -23,8 +23,8 @@ email: jeffzlou@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
   This is a description of a mostly empty website.
 baseurl: / # the subpath of your site, e.g. /blog
-url: https://jzlou.github.io
-domain: jzlou.github.io
+url: https://www.jeffreylou.com
+domain: www.jeffreylou.com
 github_username: jzlou
 
 # Build settings
